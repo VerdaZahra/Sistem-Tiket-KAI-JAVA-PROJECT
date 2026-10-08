@@ -1,0 +1,13 @@
+KAI-3446;Lunas;KAI Access;2026-09-29;9A;550000.0;ditiww;Verda Az Zahra;Argo Bromo Anggrek
+KAI-7429;Lunas;KAI Access;2026-09-29;12A;1250000.0;ditiww;Verda Az Zahra;Argo Lawu Luxury
+KAI-5101;Lunas;KAI Access;2026-09-29;8D;550000.0;Theresia Parhusip;Verda Az Zahra;Argo Bromo Anggrek
+KAI-918;Lunas;KAI Access;2026-09-29;12B;550000.0;Tere;Verda Az;Argo Bromo Anggrek
+KAI-9596;Lunas;KAI Access;2026-09-29;9A;210000.0;Tere;Verda Az;Matarmaja
+KAI-4649;Lunas;KAI Access;2026-09-29;12A;550000.0;ditiara;Verda Az;Argo Bromo Anggrek
+KAI-4207;Lunas;KAI Access;2026-09-29;12C;70000.0;Tere;Verda Az;Argo Pulo mas
+KAI-5850;Lunas;KAI Access;2026-09-29;2C;8650000.0;Tere;Verda Az;Argo Italia
+KAI-7894;Lunas;KAI Access;2026-09-29;12B;1400000.0;Tere;Verda Az;Argo Lawu Luxury
+KAI-8282;Lunas;KAI Access;2026-09-29;7D;8600000.0;Tere;Verda Az;Argo Italia
+KAI-5213;Lunas;KAI Access;2026-09-29;7A;210000.0;Verdi;Verda Az;Matarmaja
+KAI-7846;Lunas;KAI Access;2026-09-29;7E;1400000.0;Verdi;Verda Az;Argo Lawu Luxury
+KAI-1795;Lunas;KAI Access;2026-09-29;1A;2000.0;Verdi;Verda Az;Argo Untar

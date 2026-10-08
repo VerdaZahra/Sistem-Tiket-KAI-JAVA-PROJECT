@@ -1,0 +1,5 @@
+P001;ditiww;123456666;cimol.bojot;KTP;123456789;ditibojot123;ujangCilok
+P002;Theresia Parhusip;0897654321;apabae@gmail.com;12345678910;12345654321;thrsprhsip;theresia02
+P003;Tere;08123;asek@email.com;KTP;0129192819883;tere;tere123
+P004;ditiara;12345678;diti@ara;KTP;12398765;ditiara123;ditiARA
+P005;Verdi;12012910;verdi@gmail;ktp;1789172;verdi;verdi123

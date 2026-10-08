@@ -1,0 +1,7 @@
+EKONOMI;Matarmaja;Pasar Senen;Malang;10:00;01:00;15 Jam;210000.0;Split Seat 2-2;EKO-CA
+EKSEKUTIF;Argo Bromo Anggrek;Gambir;Pasar Turi;08:00;16:00;8 Jam;550000.0;Reclining 45-deg;Wi-Fi & Lunch
+LUXURY;Argo Lawu Luxury;Gambir;Solo Balapan;20:00;03:00;7 Jam;1250000.0;Sleeper Bed 180-deg;true
+EKSEKUTIF;Argo Baduy;Gambir;Baduy;10:00;13:00;3 jam;50000.0;Reclining 45-deg;Snack
+EKSEKUTIF;Argo Pulo mas;tanah abang;cakung;05:00;05:45;45 menit;20000.0;Reclining 45-deg;Snack
+LUXURY;Argo Italia;Bonjours;Sawadikap;05:00;17:00;12 jam;8500000.0;Sleeper Bed 180-deg;false
+EKONOMI;Argo Untar;Grogol;Bromo;05:00;17:00;12 jam;2000.0;Split Seat 2-2;EKO-CA
